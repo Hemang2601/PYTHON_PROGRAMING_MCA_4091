@@ -29,3 +29,17 @@ print(f"After Deleting Element : {b}","\n")
 
 print("6.Print Welcome to Marwadiuniversity 4 times")
 print("Welcome to Marwadiuniversity\n"*4)
+
+print("7 Slicing Oprations : FirstList[-2] , SecondList[1:3], FirstList[-1:-3]")
+print(f"FirstList[-2] : {a[-2]}")
+print(f"SecondList[1:3] : {a[1:3]}")
+print(f"FirstList[-1:-3] : {a[-1:-3]}\n")
+
+print("8.Find the Length of SecondList")
+print(f"Length of SecondList : {len(b)}\n")
+
+print("9.Find the Maximum Value of SecondList")
+print(f"Maximum Value of SecondList : {max(b)}")
+
+print("10.Find the Minimum Value of SecondList")
+print(f"Minimum Value of SecondList : {min(b)}")
