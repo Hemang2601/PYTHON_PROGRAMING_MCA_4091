@@ -43,3 +43,7 @@ print(f"Maximum Value of SecondList : {max(b)}")
 
 print("10.Find the Minimum Value of SecondList")
 print(f"Minimum Value of SecondList : {min(b)}")
+
+print("11.Use SecondList.append(2) = 100")
+print(f"Before Adding Element : {a}")
+print(f"After Adding Element : {a}","\n")
