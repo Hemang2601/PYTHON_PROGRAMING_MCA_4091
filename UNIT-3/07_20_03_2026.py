@@ -2,13 +2,16 @@ class Student:
     def student_info(self):
         print("This is Student class")
 
+
 class Course:
     def course_info(self):
         print("This is Course class")
 
+
 class Marks:
     def marks_info(self):
         print("This is Marks class")
+
 
 class Result(Student, Course, Marks):
     def result_info(self):
